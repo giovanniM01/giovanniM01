@@ -2,7 +2,7 @@
 - 💻 Passionate about programming and constantly expanding my skills.
 - 🌱 Currently wrangling with React! 💀
 - 👀 A big fan of retro design
-- New Account.
+- 🚨 New Account.
 
 <!---
 giovanniM01/giovanniM01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
