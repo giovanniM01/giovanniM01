@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @giovanniM01
 - 💻 Passionate about programming and constantly expanding my skills.
-- 🌱 Currently wrangling with React! 💀
 - 👀 A big fan of retro design
 - 🚨 New Account.
 
